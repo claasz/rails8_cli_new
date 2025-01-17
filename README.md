@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Wondering what options `rails new --api` and `rails new --minimal` are doing?
 
-Things you may want to cover:
+You can see the effect by diffing branches of this repository.
 
-* Ruby version
+* `--api`: https://github.com/claasz/rails8_cli_new/pull/1/files
+* `--minimal`: https://github.com/claasz/rails8_cli_new/pull/2/files
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
