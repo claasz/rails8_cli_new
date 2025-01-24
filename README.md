@@ -11,7 +11,7 @@ Environment: Ruby 3.3.1, Rails 8.0.1
 
 # --api
 
-Looking at the diff `--api` disables certain browser related things (web-console, selenium, fragment caching). It also prevents the whole Hotwire stuff.
+Looking at the diff, `--api` disables certain browser related things (web-console, selenium, fragment caching). It also disables all JavaScript related stuff.
 
 
 ## --minimal
