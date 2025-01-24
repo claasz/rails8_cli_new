@@ -9,7 +9,7 @@ You can see the effect by diffing branches of this repository.
 
 Environment: Ruby 3.3.1, Rails 8.0.1
 
-# --api
+## --api
 
 Looking at the diff, `--api` disables certain browser related things (web-console, selenium, fragment caching). It also disables all JavaScript related stuff.
 
